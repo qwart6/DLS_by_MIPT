@@ -1,1 +1,1 @@
-[_1_](week_02_linear_models/Homework/hw_2_linear_models.ipynb)
+[_1_](Homeworks/hw1_got_survival.ipynb)
