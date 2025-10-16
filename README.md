@@ -1,1 +1,4 @@
-[_1_](Homeworks/hw1_got_survival.ipynb)
+| Name | description |
+| ------------- | ------------- |
+| [intro_course](Homeworks/hw1_got_survival.ipynb) | Классификация: выжил ли персонаж из "Игры Престолов" |
+| Content Cell  | Content Cell  |
