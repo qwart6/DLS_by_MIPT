@@ -1,4 +1,4 @@
-# 🧠 Deep Learning School (МФТИ)
+# 🧠 Deep Learning School by MIPT
 
 Репозиторий с решениями домашних заданий курсов от Deep Learning School (МФТИ).
 
